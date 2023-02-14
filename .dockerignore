@@ -1,0 +1,4 @@
+.git
+notebooks
+.gitignore
+docker-compose.yml
